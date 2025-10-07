@@ -33,7 +33,7 @@ Key concepts covered include:
 
 ## 📜 Certificate
 
-You can view my course completion certificate [here]([https://coursera.org/share/your_certificate_link](https://coursera.org/share/89982417eb4188d25f4eed912b4b9e75)) 
+You can view my course completion certificate [here](https://coursera.org/share/89982417eb4188d25f4eed912b4b9e75)
 
 ---
 
